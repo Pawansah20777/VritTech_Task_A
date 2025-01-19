@@ -16,5 +16,8 @@ No backend integration.
 Improve accessibility and animations.
 Add cross-browser compatibility.
 
+#demo link
+https://pawansah20777.github.io/VritTech_Task_A/
+
 #Time Spent
 Approximately 4 hours
